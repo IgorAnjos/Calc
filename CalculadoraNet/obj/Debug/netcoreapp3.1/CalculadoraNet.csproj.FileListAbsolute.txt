@@ -1,0 +1,10 @@
+C:\ProjetosGit\Calc\CalculadoraNet\bin\Debug\netcoreapp3.1\CalculadoraNet.exe
+C:\ProjetosGit\Calc\CalculadoraNet\bin\Debug\netcoreapp3.1\CalculadoraNet.deps.json
+C:\ProjetosGit\Calc\CalculadoraNet\bin\Debug\netcoreapp3.1\CalculadoraNet.runtimeconfig.json
+C:\ProjetosGit\Calc\CalculadoraNet\bin\Debug\netcoreapp3.1\CalculadoraNet.runtimeconfig.dev.json
+C:\ProjetosGit\Calc\CalculadoraNet\bin\Debug\netcoreapp3.1\CalculadoraNet.dll
+C:\ProjetosGit\Calc\CalculadoraNet\bin\Debug\netcoreapp3.1\CalculadoraNet.pdb
+C:\ProjetosGit\Calc\CalculadoraNet\obj\Debug\netcoreapp3.1\CalculadoraNet.AssemblyInfoInputs.cache
+C:\ProjetosGit\Calc\CalculadoraNet\obj\Debug\netcoreapp3.1\CalculadoraNet.AssemblyInfo.cs
+C:\ProjetosGit\Calc\CalculadoraNet\obj\Debug\netcoreapp3.1\CalculadoraNet.dll
+C:\ProjetosGit\Calc\CalculadoraNet\obj\Debug\netcoreapp3.1\CalculadoraNet.pdb
