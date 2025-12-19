@@ -1,17 +1,26 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Calculadora.Classe
 {
-    public class Subtracao
+    /// <summary>
+    /// Classe que implementa a operação de subtração
+    /// Demonstra HERANÇA (herda de OperacaoBase) e POLIMORFISMO (implementa Calcular)
+    /// </summary>
+    public class Subtracao : OperacaoBase
     {
-        public static float Sub(int numero1, int numero2)
+        // POLIMORFISMO: Implementação específica do método abstrato
+        public override double Calcular()
         {
-            float result;
-            result = (numero1 - numero2);
+            if (!ValidarNumeros())
+                throw new InvalidOperationException("Números inválidos para operação");
 
-            return result;
+            return PrimeiroNumero - SegundoNumero;
+        }
+
+        // POLIMORFISMO: Sobrescrevendo método virtual da classe base
+        public override string ObterDescricao()
+        {
+            return $"Subtração: {PrimeiroNumero} - {SegundoNumero} = {Calcular()}";
         }
     }
 }
